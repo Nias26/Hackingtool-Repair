@@ -20,3 +20,6 @@ When you finish the installation, type sudo hackingtool to start the program. If
 
 If you have any other problems installing, report it on the issues tab. 
 Thanks!
+
+P.S.
+Some tools doesn't install. (｡T ω T｡)
