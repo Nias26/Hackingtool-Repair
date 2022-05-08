@@ -15,5 +15,8 @@ python3 $INSTALL_DIR/hackingtool.py" '${1+"$@"}' > hackingtool
 sudo chmod +x hackingtool
 sudo cp hackingtool /usr/bin/
 rm hackingtool
-If you have problems installing, report it on the issues tab. Thanks!
 ```
+When you finish the installation, type sudo hackingtool to start the program. If it gives you error when you start it, you have to do `sudo python3 /usr/bin/hackingtool/hackingtool.py` to start the program.
+
+If you have any other problems installing, report it on the issues tab. 
+Thanks!
